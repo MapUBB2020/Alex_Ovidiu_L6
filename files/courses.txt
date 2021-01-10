@@ -1,0 +1,6 @@
+1;Mathematics;100;20;-1;-
+2;Art;40;3;-1;1,2,
+3;Physics;75;6;-1;1,3,
+4;English;27;2;-1;1,2,3,
+5;Astrophysics;5;20;-1;3,
+6;NewCourse;24;10;-1;-
